@@ -243,25 +243,3 @@ h4 {
     grid-template-columns: 1fr;
   }
 }
-
-
-.largeText{
-  font-size: 1rem;
-  color: black;
-}
-
-/* messages  */
-.alert {
-  padding: 10px;
-  border-radius: 10px;
-}
-.alert-info{
-  background-color: antiquewhite;
-}
-.alert-danger{
-  background-color: rgb(255, 11, 36);
-  
-}
-.alert-success{
-  background-color: rgb(12, 245, 245);
-}
